@@ -1,9 +1,9 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: service
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Service
 subtitle:
 
 # Date format for experience
