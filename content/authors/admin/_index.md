@@ -14,7 +14,8 @@ organizations:
   url: https://www.gssi.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Software Engineering, Software Testing and Self-adaptive Systems.
+
 
 # Interests to show in About widget
 interests:
